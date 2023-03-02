@@ -1,0 +1,19 @@
+* {box-sizing:border-box}
+
+.skill-container {
+    width: 100%;
+    background-color: grey;
+}
+
+.skill {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.html {width: 90%; background-color: red;}
+.css {width: 80%; background-color: green;}
+.js {width: 75%; background-color: blue;}
+.php {width: 85%; background-color: darkgreen}
+.python {width: 40%; background-color: darkmagenta}
